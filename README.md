@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Welcome to my page! </br> I'm Rodrigo, <b>Fullstack developer</b> from Santiago, Chile 
+<p>Welcome to my page! </br> I'm Rodrigo, <b>Fullstack Developer</b> from Santiago, Chile 
 
 <h3>Things I code with</h3>
 <p>
