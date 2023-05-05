@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 </table>
 <h3>My latest posts</h3>
 <ul>
+  <li><a href="https://roddelaporte.medium.com/introduction-to-algorithms-big-o-notations-d06b22a113f7"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />Algorithms: Big-O Notation</b></a><br/><i>Installation and overview.</i></li>
+</ul>
   <li><a href="https://medium.com/@roddelaporte/getting-started-with-python-programming-6d12c191cf9c"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Getting started with Python Programming</b></a><br/><i>Installation and overview.</i></li>
 </ul>
 
