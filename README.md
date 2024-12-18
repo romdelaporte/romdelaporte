@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 
 <h3>My latest posts</h3>
 <ul>
+  <li><a href="https://medium.com/@roddelaporte/comparing-django-features-against-the-serverless-world-4a01d665ff73">Comparing Django features against the Serverless World</b></a><br/><i>Django vs Serverless</i></li>
   <li><a href="https://roddelaporte.medium.com/machine-learning-algorithms-overview-4cc50151d964">Machine Learning Algorithms Overview</b></a><br/><i>Summary of Machine Learning Algorithms</i></li>
   <li><a href="https://roddelaporte.medium.com/introduction-to-algorithms-big-o-notations-d06b22a113f7">Algorithms: Big-O Notation</b></a><br/><i>Summary of Algorithms explaning optimization</i></li>
-  <li><a href="https://medium.com/@roddelaporte/getting-started-with-python-programming-6d12c191cf9c">Getting started with Python Programming</b></a><br/><i>Installation and overview.</i></li>
+  
 </ul>
 
 <h3>Where to find me</h3>
