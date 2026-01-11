@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <h3>Where to find me</h3>
 <p>
-  <a href="www.linkedin.com/in/roddelaporte" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/roddelaporte" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="https://github.com/romdelaporte" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/laprotocultura" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://medium.com/@roddelaporte" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
