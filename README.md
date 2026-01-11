@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=python&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/supabase" />
+  <img alt="Supabase" src="https://shields.io/badge/supabase-black?logo=supabase" />
   <img alt="Postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
