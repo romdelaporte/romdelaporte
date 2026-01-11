@@ -26,7 +26,8 @@ Here are some ideas to get you started:
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-  <img alt="Django" src="https://img.shields.io/badge/next.js />
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js" />
+  <img alt="Supabase" src="https://img.shields.io/badge/supabase" />
 </p>
 
 <h3>My latest posts</h3>
